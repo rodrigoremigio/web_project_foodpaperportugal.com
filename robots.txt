@@ -1,0 +1,11 @@
+Sitemap: https://foodpaperportugal.com/sitemap.xml
+
+User-agent: *
+
+Allow: /https://foodpaperportugal.com/
+
+Disallow: /images/
+Disallow: /styles/
+Disallow: /js/
+Disallow: /old/
+Disallow: /anterior/
